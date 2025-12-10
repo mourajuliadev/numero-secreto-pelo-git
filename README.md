@@ -1,15 +1,36 @@
-<h1>Jogo do número secreto</h1>
+# 🎮 Jogo do Número Secreto  
 
-<h2>🔖 Sobre</h2>
-<p>Projeto utilizado nos cursos de lógica de programação da Alura.</p>
+## 🔖 Sobre
+Projeto utilizado nos cursos de lógica de programação da **Alura**.  
+O objetivo do jogo é tentar adivinhar o número secreto gerado pelo sistema.
+
+---
 
 ## 🚀 Tecnologias
-<div>
-  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</div>
 
-# Time
-<p>Júlia Aparecida de Moura</p>
+Essas foram as tecnologias aprendidas durante esse projeto:
 
+- JavaScript
+- HTML
+- CSS
+
+>Ainda estou aprendendo, mas já consigo entender melhor como tudo funciona. 
+ ---
+
+ ##  🧠 O que eu aprendi
+
+ - Lógica básica
+ - Condicionais
+ - Funções 
+ - Eventos no JS
+
+ ##  🕹  Como funciona o jogo
+ 1. O sistema escolhe um número.
+ 2. Você tenta adivinhar.
+ 3. Ele diz se é maior ou menor.
+ 4. Continue até acertar.  🎯
+
+ ##  👩‍💻 Autora 
+ **Júlia Aparecida de Moura**
+ 
+ Feito com ❤️ durante meus estudos na Alura.
