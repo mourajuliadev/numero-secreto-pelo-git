@@ -12,3 +12,5 @@
 
 # Time
 <p>Júlia Aparecida de Moura</p>
+
+![minha foto](https://github.com/user-attachments/assets/25a09203-74e4-4d1c-971e-10e3eb8640eb)
